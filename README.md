@@ -20,7 +20,7 @@ Withdraw 5 ether into account one
 <img src="Images/Withdraw1.png" width="1000"/>
 
 Withdraw 10 ether into account two
-<img src="Images/Withdraw2.pngn.png" width="1000"/>
+<img src="Images/Withdraw2.png" width="1000"/>
 
 ## Screenshot for executing lastToWithdraw function
 <img src="Images/LastToWithdraw.png" width="1000"/>
