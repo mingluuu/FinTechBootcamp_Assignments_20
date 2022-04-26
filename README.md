@@ -1,4 +1,4 @@
-# FinTechBootcamp_Assignments_20
+# FinTech_Challenge_20
 
 ## Screenshot for executing setAccounts function
 <img src="Images/set_accounts.png" width="1000"/>
